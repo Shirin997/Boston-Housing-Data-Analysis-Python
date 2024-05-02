@@ -3,7 +3,8 @@
 ## Overview
 Pandas and NumPy are powerful Python libraries for data analysis and manipulation. In this project, we will explore various functionalities of these libraries using real-life data from the Boston Housing dataset. This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston, Massachusetts.
 
-![image](https://github.com/Shirin997/Boston-Housing-Data-Analysis-Python/blob/main/Boston_Housing_data_EDA%20(1).ipynb)
+![image](https://github.com/Shirin997/Boston-Housing-Data-Analysis-Python/assets/157870774/9f86c3b1-cace-4ab6-ba1c-ea7cc8b78dd1)
+
 
 
 ## Dataset
