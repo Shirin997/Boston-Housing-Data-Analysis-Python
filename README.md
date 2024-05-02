@@ -38,7 +38,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/vikrishnan/bosto
 ## Conclusion
 Through this analysis, we gained valuable insights into the Boston Housing dataset. We observed correlations between various features and housing prices, identified trends and patterns, and performed basic data manipulations and operations. The findings from this analysis can be used to inform decision-making processes in the real estate industry and contribute to a better understanding of housing market dynamics in the Boston area.
 ## My Project
-[You can chek here](https://github.com/Ajaj583/Boston-Housing-data-Analysis-Python/blob/main/Boston_Housing_data_EDA.ipynb)
+[You can chek here](https://github.com/Shirin997/Boston-Housing-Data-Analysis-Python/blob/main/Boston_Housing_data_EDA%20(1).ipynb)
 ## Authors
 
 - [@Shirin997](https://github.com/Shirin997)
